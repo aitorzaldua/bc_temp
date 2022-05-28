@@ -191,3 +191,105 @@ Todas las anteriores
 ¿Cuáles son los estándares más usados hoy para NFT en Ethereum?
 
 ERC-721 y ERC-1155
+
+Es el token para implementar funcionalidades usando la blockchain de Ethereum
+
+BEP-20
+2.
+A diferencia del dinero tradicional:
+Bitcoin es completamente virtual, no existen monedas físicas ni tangibles.
+3.
+"El éxito detrás de las inversiones solo depende de analizar el precio de los activos financieros". La anterior afirmación es:
+Falsa
+4.
+¿La emisión de Ethereum está limitada a 21 millones de unidades?
+Falso
+5.
+¿Cuál es una característica de la tecnología blockchain?
+Descentralización
+6.
+Git es el diminutivo de GitHub, esto es:
+Falso
+7.
+Al crear una wallet nueva, ¿cuántas llaves se generan?
+2, una pública y otra privada
+8.
+Ropsten es una red de prueba de Ethereum, donde el éter no tiene valor
+Verdadero
+
+9.
+¿Cuál es la función del GAS dentro de la red de Ethereum?
+La función del GAS es ser un mecanismo de control del uso computacional dentro de la red. Por ejemplo, permite evitar la entrada a bucles infinitos porque una vez se acabe el GAS se termina la ejecución.
+10.
+¿Cuál de las siguientes opciones muestra proyectos o aplicaciones de DeFi?
+- NFT - Play-to-Earn
+REPASAR CLASE
+11.
+Hardhat es...
+Un entorno de desarrollo que nos permite compilar, probar y desplegar contratos inteligentes.
+12.
+Cuando compilamos un Smart Contract en Solidity, una de sus salidas es...
+Una transacción firmada por el proveedor
+REPASAR CLASE
+13.
+¿Qué regresa la función tokenURI del ERC712 Metadata?
+Debe regresar una URL, que a su vez, regresa un JSON donde están los atributos del NFT, como su imagen o características
+14.
+Una forma de realizar tests en JavaScript a nuestro contrato inteligente con Hardhat es utilizando ________ y ________
+ethers.js y chai
+15.
+¿Por qué es importante que guardes muy bien las palabras semilla?
+Porque representan a las llaves privadas y si las extravío o las comparto perderé mis criptomonedas.
+16.
+¿Qué es un contrato inteligente?
+Un programa que se ejecuta en la blockchain
+17.
+La web3 de cara al futuro se ve así:
+Habrán muchas oportunidades si no paras de aprender
+18.
+¿Qué es KYC: "Know your customer"?
+Información solicitada por una entidad centralizada que permita tener más información de sus clientes.
+19.
+Diferencias entre CEX y DEX
+Los CEX son plataformas centralizadas y los DEX plataformas descentralizadas.
+20.
+¿Es posible aprovechar los movimientos tanto de crecimiento como decrecimiento de un activo?
+Sí, a partir de las órdenes de largo y corto.
+21.
+¿Es el volumen un factor importante en nuestra operativa?
+No, realmente es un indicador más y puedo decidir no usarlo utilizando las propiedades de otras herramientas. Pues solo me ayuda a ver fuerza de barras, pero no de un activo.
+22.
+Hacer backtesting no es opcional, es parte fundamental de nuestro crecimiento y operativa.
+
+Falso
+REPASAR CLASE
+23.
+¿Qué tipo de dato se utiliza para nombrar a los roles del control de acceso?
+address
+REPASAR CLASE
+24.
+¿Que característica tiene la llamada delegatecall?
+No se puede ejecutar sobre una dirección
+REPASAR CLASE
+25.
+¿Cuál fue el primer proyecto de dinero electrónico respaldado en la criptografía en la historia?
+
+Digicash (David Chaum)
+
+26.
+¿Por qué estamos hablando de Ethereum?
+Todas las anteriores
+27.
+¿Cuál es el estándar más usado para tokens fungibles hoy en Ethereum?
+ERC-20
+28.
+¿Por qué se usa Script?
+Porque ofrece una gran flexibilidad y posibilidades para crear nuevas soluciones sobre Bitcoin.
+29.
+Son características de las Organizaciones Autónomas Descentralizadas
+
+Todas las son correctas. Las DAOs se contraponen a la manera tradicional de cómo se integran las organizaciones.
+
+30.
+Si eres una persona natural, ¿puedes imputar como créditos las pérdidas que generaste con tu inversión en criptomonedas?
+No. Debemos asumir nuestras pérdidas.
