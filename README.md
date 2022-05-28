@@ -237,21 +237,29 @@ Debe regresar una URL, que a su vez, regresa un JSON donde están los atributos 
 14.
 Una forma de realizar tests en JavaScript a nuestro contrato inteligente con Hardhat es utilizando ________ y ________
 ethers.js y chai
+
 15.
+
 ¿Por qué es importante que guardes muy bien las palabras semilla?
 Porque representan a las llaves privadas y si las extravío o las comparto perderé mis criptomonedas.
+
 16.
+
 ¿Qué es un contrato inteligente?
 Un programa que se ejecuta en la blockchain
+
 17.
 La web3 de cara al futuro se ve así:
 Habrán muchas oportunidades si no paras de aprender
+
 18.
 ¿Qué es KYC: "Know your customer"?
 Información solicitada por una entidad centralizada que permita tener más información de sus clientes.
+
 19.
 Diferencias entre CEX y DEX
 Los CEX son plataformas centralizadas y los DEX plataformas descentralizadas.
+
 20.
 ¿Es posible aprovechar los movimientos tanto de crecimiento como decrecimiento de un activo?
 Sí, a partir de las órdenes de largo y corto.
